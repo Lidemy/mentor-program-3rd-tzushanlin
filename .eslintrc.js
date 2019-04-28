@@ -20,6 +20,9 @@ module.exports = {
     'react',
   ],
   rules: {
-    "no-console": "off"
+    "linebreak-style" : ["error", "windows"],
+    "no-console" : "off",
+
   },
+
 };
